@@ -1,4 +1,4 @@
-# awesome-falco
+# awesome-falco [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of Falco related tools, frameworks and articles
 
 ![falco_logo](./falco.png)
