@@ -1,6 +1,6 @@
 # awesome-falco [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![falco_logo](./falco.png)
+<img src="https://cncf-branding.netlify.app/img/projects/falco/horizontal/color/falco-horizontal-color.svg" width="300"><br/><br/>
 
 A curated list of Falco related tools, frameworks and articles
 
