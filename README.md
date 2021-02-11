@@ -17,6 +17,7 @@ A curated list of Falco related tools, frameworks and articles
 
 - [Falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [Falcosidekick](https://github.com/falcosecurity/falcosidekick) - A simple daemon to help you with falco's outputs
+- [Falcosidekick UI](https://github.com/falcosecurity/falcosidekick-ui) - A simple WebUI with latest events from Falco
 
 ### Docs
 
