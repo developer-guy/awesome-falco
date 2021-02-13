@@ -13,6 +13,8 @@ A curated list of Falco related tools, frameworks and articles
 - 🐾 [Community Repositories](#community-repositories)
 - 🗃️ [Blogs and Articles](#blogs-and-articles)
 - 📹 [Videos](#videos)
+- 📑 [Slides](#slides)
+- 🧪 [Interactive Learning](#interactive-learning)
 - 🧰 [IDE and Editor Integrations](#ide-and-editor-integrations)
 - 📡 [Support and Community](#support-and-community)
      - 💊 [Develop and Contribute](#develop-and-contribute)
@@ -45,11 +47,11 @@ A curated list of Falco related tools, frameworks and articles
 
 ## Blogs and Articles
 
-- [Installing and using sysdig falco by IBM](https://developer.ibm.com/tutorials/installing-and-using-sysdig-falco/)
+- [Installing and using sysdig falco by Spencer Krum](https://developer.ibm.com/tutorials/installing-and-using-sysdig-falco/)
 - [Falco Container Native Security by cloudpirate](https://www.cloudpirate.io/blog/falco-container-native-runtime-security-40608.html)
 - [Kubernetes Security monitoring at scale with Sysdig Falco by Skyscanner Engineering](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)
 - [Container Host Security Demo - Falco for GitLab 13.2 by GitLab Unfiltered](https://www.youtube.com/watch?v=WxBzBz76FxU)
-- [Kubernetes Security With Falco](https://medium.com/better-programming/kubernetes-security-with-falco-2eb060d3ae7d)
+- [Kubernetes Security With Falco Gaurav Agarwal](https://medium.com/better-programming/kubernetes-security-with-falco-2eb060d3ae7d)
 - [Hunting for Malware with Falco by dlorenc](https://dlorenc.medium.com/hunting-for-malware-with-falco-834b19b398c9)
 - [Container runtime security in Kubernetes with Falco by gatesch](https://medium.com/@gatesch/container-runtime-security-in-kubernetes-with-falco-904cd713054a)
 - [Getting Started with Falco Runtime Security and Cloud Native Distributed SQL on Google Kubernetes Engine by yugabyte](https://medium.com/yugabyte/getting-started-with-falco-runtime-security-and-cloud-native-distributed-sql-on-google-kubernetes-477b2471535c)
@@ -58,12 +60,27 @@ A curated list of Falco related tools, frameworks and articles
 - [Play by Play Security with Sysdig and Falco by avinash_vjti](https://medium.com/@avinash_vjti/play-by-play-security-with-sysdig-and-falco-22ce397271ed)
 - [What is Falco, and how it work with Kubernetes by jihadbenabra](https://jihadbenabra.medium.com/what-is-falco-and-how-it-work-with-kubernetes-44f5dbb985cb)
 - [Security Sprint: Falco by terceranexus6](https://dev.to/terceranexus6/security-sprint-falco-e0o)
+- [Runtime Security with Falco by Pawan Shankar](https://rancher.com/blog/2020/runtime-security-with-falco)
+- [Implementing Runtime Security in Amazon EKS using CNCF Falco by Anand Krishna](https://aws.amazon.com/blogs/containers/implementing-runtime-security-in-amazon-eks-using-cncf-falco/)
+- [Security with Falco by Radhika Rajesh](https://dzone.com/articles/security-with-falco)
+- [Falco is the First Runtime Security Project to be Accepted into CNCF Incubator by Matt Campbell](https://www.infoq.com/news/2020/01/falco-security-cncf/)
+- [An Introduction to Kubernetes Security using Falco by Frederick Fernando](https://www.infracloud.io/blogs/introduction-kubernetes-security-falco/)
 
 ## Videos
 
 - [Container Runtime Security with Falco by Kubernetes Meetup Tokyo](https://www.youtube.com/watch?v=t-7sq1_wYP4)
 - [Sysdig Falco - Open Source Docker Security - WTF my container just spawned a shell by Sysdig](https://www.youtube.com/watch?v=eCC_RFlyxkg)
-- [Intro to Falco: Intrusion Detection for Containers - Shane Lawrence, Shopify by CNCF](https://www.youtube.com/watch?v=rBqBrYESryY)
+- [Intro to Falco: Intrusion Detection for Containers - Shane Lawrence, Shopify by Shane Lawrence](https://www.youtube.com/watch?v=rBqBrYESryY)
+- [Webinar: Getting started with container runtime security using Falco by Loris Degioanni](https://www.youtube.com/watch?v=eqZxd7VJzek)
+
+## Slides
+
+- [Kubernetes Runtime Security with Falco and Sysdig by Jorge Salamero](https://www.cncf.io/wp-content/uploads/2020/08/Kubernetes-Runtime-Security-with-Falco-and-Sysdig.pdf)
+- [Getting Started with Runtime Security using Falco by Loris Degioanni](https://www.cncf.io/wp-content/uploads/2020/07/CNCF_-Getting-Started-with-Runtime-Security-using-Falco_2020.09.02.pptx)
+
+## Interactive Learning
+
+- [Falco by falco](https://katacoda.com/falco/courses/falco/falco)
 
 ## IDE and Editor Integrations
 
