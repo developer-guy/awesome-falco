@@ -14,6 +14,7 @@ A curated list of Falco related tools, frameworks and articles
 - 🗃️ [Blogs and Articles](#blogs-and-articles)
 - 📹 [Videos](#videos)
 - 📑 [Slides](#slides)
+- 🎤 [Podcasts](#podcasts)
 - 🧪 [Interactive Learning](#interactive-learning)
 - 🧰 [IDE and Editor Integrations](#ide-and-editor-integrations)
 - 📡 [Support and Community](#support-and-community)
@@ -77,6 +78,10 @@ A curated list of Falco related tools, frameworks and articles
 
 - [Kubernetes Runtime Security with Falco and Sysdig by Jorge Salamero](https://www.cncf.io/wp-content/uploads/2020/08/Kubernetes-Runtime-Security-with-Falco-and-Sysdig.pdf)
 - [Getting Started with Runtime Security using Falco by Loris Degioanni](https://www.cncf.io/wp-content/uploads/2020/07/CNCF_-Getting-Started-with-Runtime-Security-using-Falco_2020.09.02.pptx)
+
+## Podcasts
+
+- [Falco by Thomas Labarussias](https://electro-monkeys.fr/?tag=falco)
 
 ## Interactive Learning
 
