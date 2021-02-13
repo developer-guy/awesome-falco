@@ -10,6 +10,10 @@ A curated list of Falco related tools, frameworks and articles
   - [Repositories](#repositories)
   - [Docs](#docs)
   - [Blogs](#blogs-and-articles)
+- [Community Repositories](#community-repositories)
+- [Blogs and Articles](#blogs-and-articles)
+- [Videos](#videos)
+- [IDE and Editor Integrations](#ide-and-editor-integrations)
 - [Support and Community](#support-and-community)
   - [Develop and Contribute](#develop-and-contribute)
   - [Learn and Connect](#learn-and-connect)
@@ -28,9 +32,33 @@ A curated list of Falco related tools, frameworks and articles
 
 - [Falco](https://falco.org/docs/) - Official Falco documentation
 
-### Blogs and Articles
+### Blogs
 
 - [Falco](https://falco.org/blog/) - Official blog for the Falco project
+
+## Community Repositories
+
+- [Extending Falco outputs with Falcosidekick by developer-guy](https://github.com/developer-guy/extending-falco-outputs-with-falcosidekick)
+- [Falco workshop by vicenteherrera](https://github.com/vicenteherrera/falco-workshop)
+- [Container Runtime Security with Falco by developer-guy](https://github.com/developer-guy/container-runtime-security-with-falco)
+
+## Blogs and Articles
+
+- [Installing and using sysdig falco by IBM](https://developer.ibm.com/tutorials/installing-and-using-sysdig-falco/)
+- [Falco Container Native Security by cloudpirate](https://www.cloudpirate.io/blog/falco-container-native-runtime-security-40608.html)
+- [Kubernetes Security monitoring at scale with Sysdig Falco by Skyscanner Engineering](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)
+- [Container Host Security Demo - Falco for GitLab 13.2 by GitLab Unfiltered](https://www.youtube.com/watch?v=WxBzBz76FxU)
+
+
+## Videos
+
+- [Container Runtime Security with Falco by Kubernetes Meetup Tokyo](https://www.youtube.com/watch?v=t-7sq1_wYP4)
+- [Sysdig Falco - Open Source Docker Security - WTF my container just spawned a shell by Sysdig](https://www.youtube.com/watch?v=eCC_RFlyxkg)
+- [Intro to Falco: Intrusion Detection for Containers - Shane Lawrence, Shopify by CNCF](https://www.youtube.com/watch?v=rBqBrYESryY)
+
+## IDE and Editor Integrations
+
+- [VS Code plugin](https://github.com/sysdiglabs/vscode-falco) - Falco Rules helpers for VSCode
 
 ## Support and Community
 
