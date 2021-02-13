@@ -53,7 +53,7 @@ A curated list of Falco related tools, frameworks and articles
 - [Falco Container Native Security by cloudpirate](https://www.cloudpirate.io/blog/falco-container-native-runtime-security-40608.html)
 - [Kubernetes Security monitoring at scale with Sysdig Falco by Skyscanner Engineering](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)
 - [Container Host Security Demo - Falco for GitLab 13.2 by GitLab Unfiltered](https://www.youtube.com/watch?v=WxBzBz76FxU)
-- [Kubernetes Security With Falco Gaurav Agarwal](https://medium.com/better-programming/kubernetes-security-with-falco-2eb060d3ae7d)
+- [Kubernetes Security With Falco by Gaurav Agarwal](https://medium.com/better-programming/kubernetes-security-with-falco-2eb060d3ae7d)
 - [Hunting for Malware with Falco by dlorenc](https://dlorenc.medium.com/hunting-for-malware-with-falco-834b19b398c9)
 - [Container runtime security in Kubernetes with Falco by gatesch](https://medium.com/@gatesch/container-runtime-security-in-kubernetes-with-falco-904cd713054a)
 - [Getting Started with Falco Runtime Security and Cloud Native Distributed SQL on Google Kubernetes Engine by yugabyte](https://medium.com/yugabyte/getting-started-with-falco-runtime-security-and-cloud-native-distributed-sql-on-google-kubernetes-477b2471535c)
