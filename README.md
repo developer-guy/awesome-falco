@@ -67,6 +67,8 @@ A curated list of Falco related tools, frameworks and articles
 - [Security with Falco by Radhika Rajesh](https://dzone.com/articles/security-with-falco)
 - [Falco is the First Runtime Security Project to be Accepted into CNCF Incubator by Matt Campbell](https://www.infoq.com/news/2020/01/falco-security-cncf/)
 - [An Introduction to Kubernetes Security using Falco by Frederick Fernando](https://www.infracloud.io/blogs/introduction-kubernetes-security-falco/)
+- [Kubernetes Audit Log Falco by Pawan Shankar](https://sysdig.com/blog/kubernetes-audit-log-falco/)
+- [K3s Sysdig Falco by Dan Papandrea](https://sysdig.com/blog/k3s-sysdig-falco/)
 
 ## Videos
 
