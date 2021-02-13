@@ -6,17 +6,17 @@ A curated list of Falco related tools, frameworks and articles
 
 ## Contents
 
-- [Official Projects](#official-projects)
-  - [Repositories](#repositories)
-  - [Docs](#docs)
-  - [Blogs](#blogs-and-articles)
-- [Community Repositories](#community-repositories)
-- [Blogs and Articles](#blogs-and-articles)
-- [Videos](#videos)
-- [IDE and Editor Integrations](#ide-and-editor-integrations)
-- [Support and Community](#support-and-community)
-  - [Develop and Contribute](#develop-and-contribute)
-  - [Learn and Connect](#learn-and-connect)
+- 💼 [Official Projects](#official-projects)
+    - 📂 [Repositories](#repositories)
+    - 🗒️ [Docs](#docs)
+    - 📰 [Blogs](#blogs-and-articles)
+- 🐾 [Community Repositories](#community-repositories)
+- 🗃️ [Blogs and Articles](#blogs-and-articles)
+- 📹 [Videos](#videos)
+- 🧰 [IDE and Editor Integrations](#ide-and-editor-integrations)
+- 📡 [Support and Community](#support-and-community)
+     - 💊 [Develop and Contribute](#develop-and-contribute)
+     - 📆 [Learn and Connect](#learn-and-connect)
 
 
 ## Official projects
@@ -41,8 +41,7 @@ A curated list of Falco related tools, frameworks and articles
 - [Extending Falco outputs with Falcosidekick by developer-guy](https://github.com/developer-guy/extending-falco-outputs-with-falcosidekick)
 - [Falco workshop by vicenteherrera](https://github.com/vicenteherrera/falco-workshop)
 - [Container Runtime Security with Falco by developer-guy](https://github.com/developer-guy/container-runtime-security-with-falco)
-- [falco-filebeat-daemonset](https://github.com/Popsiclestick/falco-filebeat-daemonset) - Easily deployable daemonset which moves logs from falco with filebeat
-- [falco-workshop](https://github.com/vicenteherrera/falco-workshop) - Falco workshop, runtime security, kernel system calls, kubernetes audit log, security rules 
+- [falco-filebeat-daemonset by Popsiclestick](https://github.com/Popsiclestick/falco-filebeat-daemonset) - Easily deployable daemonset which moves logs from falco with filebeat
 
 ## Blogs and Articles
 
@@ -51,15 +50,14 @@ A curated list of Falco related tools, frameworks and articles
 - [Kubernetes Security monitoring at scale with Sysdig Falco by Skyscanner Engineering](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)
 - [Container Host Security Demo - Falco for GitLab 13.2 by GitLab Unfiltered](https://www.youtube.com/watch?v=WxBzBz76FxU)
 - [Kubernetes Security With Falco](https://medium.com/better-programming/kubernetes-security-with-falco-2eb060d3ae7d)
-- [Kubernetes Security monitoring at scale with Sysdig Falco](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)
-- [Hunting for Malware with Falco](https://dlorenc.medium.com/hunting-for-malware-with-falco-834b19b398c9)
-- [Container runtime security in Kubernetes with Falco](https://medium.com/@gatesch/container-runtime-security-in-kubernetes-with-falco-904cd713054a)
-- [Getting Started with Falco Runtime Security and Cloud Native Distributed SQL on Google Kubernetes Engine](https://medium.com/yugabyte/getting-started-with-falco-runtime-security-and-cloud-native-distributed-sql-on-google-kubernetes-477b2471535c)
-- [Integrating Falco and Your CI/CD Pipeline](https://ravilach.medium.com/integrating-falco-and-your-ci-cd-pipeline-870152795282)
-- [Deploying Falco to Kubernetes](https://medium.com/@glentomkowiak/deploying-falco-to-kubernetes-4d950cf46119)
-- [Play by Play Security with Sysdig and Falco](https://medium.com/@avinash_vjti/play-by-play-security-with-sysdig-and-falco-22ce397271ed)
-- [What is Falco, and how it work with Kubernetes](https://jihadbenabra.medium.com/what-is-falco-and-how-it-work-with-kubernetes-44f5dbb985cb)
-- [Security Sprint: Falco](https://dev.to/terceranexus6/security-sprint-falco-e0o)
+- [Hunting for Malware with Falco by dlorenc](https://dlorenc.medium.com/hunting-for-malware-with-falco-834b19b398c9)
+- [Container runtime security in Kubernetes with Falco by gatesch](https://medium.com/@gatesch/container-runtime-security-in-kubernetes-with-falco-904cd713054a)
+- [Getting Started with Falco Runtime Security and Cloud Native Distributed SQL on Google Kubernetes Engine by yugabyte](https://medium.com/yugabyte/getting-started-with-falco-runtime-security-and-cloud-native-distributed-sql-on-google-kubernetes-477b2471535c)
+- [Integrating Falco and Your CI/CD Pipeline by ravilach](https://ravilach.medium.com/integrating-falco-and-your-ci-cd-pipeline-870152795282)
+- [Deploying Falco to Kubernetes by glentomkowiak](https://medium.com/@glentomkowiak/deploying-falco-to-kubernetes-4d950cf46119)
+- [Play by Play Security with Sysdig and Falco by avinash_vjti](https://medium.com/@avinash_vjti/play-by-play-security-with-sysdig-and-falco-22ce397271ed)
+- [What is Falco, and how it work with Kubernetes by jihadbenabra](https://jihadbenabra.medium.com/what-is-falco-and-how-it-work-with-kubernetes-44f5dbb985cb)
+- [Security Sprint: Falco by terceranexus6](https://dev.to/terceranexus6/security-sprint-falco-e0o)
 
 ## Videos
 
