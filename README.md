@@ -82,6 +82,7 @@ A curated list of Falco related tools, frameworks and articles
 ## Podcasts
 
 - [Falco by Thomas Labarussias](https://electro-monkeys.fr/?tag=falco)
+- [Kubelist Podcast on Falco with @danpopsd](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-9-falco-with-dan-pop-papandrea-of-sysdig/) 
 
 ## Interactive Learning
 
