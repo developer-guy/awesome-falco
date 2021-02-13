@@ -38,7 +38,7 @@ A curated list of Falco related tools, frameworks and articles
 ### Blogs
 
 - [Falco](https://falco.org/blog/) - Official blog for the Falco project
-- [Sysdig Blog](https://sysdig.com/blog/) - Explore Sysdig resources for whitepapers, videos, webinars, case studies, and more. Embed security, compliance and monitoring into DevOps workflows. 
+- [Sysdig Blog](https://sysdig.com/blog/?s=&sd-tax-sysdig-open-source%5B%5D=sysdig-falco) - Explore Sysdig resources for whitepapers, videos, webinars, case studies, and more. Embed security, compliance and monitoring into DevOps workflows. 
 
 ## Community Repositories
 
