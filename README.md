@@ -89,7 +89,9 @@ A curated list of Falco related tools, frameworks and articles
 
 ## Interactive Learning
 
-- [Falco by falco](https://katacoda.com/falco/courses/falco/falco)
+- [Container Runtime Security with Falco by falco](https://katacoda.com/falco/courses/falco/falco)
+- [Sysdig Falco: Container security monitoring by mateobur](https://www.katacoda.com/mateobur/scenarios/falco)
+- [Blocking security threats with Falco Response Engine by Falco](https://katacoda.com/falco/courses/falco/falco-response-engine)
 
 ## IDE and Editor Integrations
 
