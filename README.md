@@ -76,6 +76,7 @@ A curated list of Falco related tools, frameworks and articles
 - [Sysdig Falco - Open Source Docker Security - WTF my container just spawned a shell by Sysdig](https://www.youtube.com/watch?v=eCC_RFlyxkg)
 - [Intro to Falco: Intrusion Detection for Containers - Shane Lawrence, Shopify by Shane Lawrence](https://www.youtube.com/watch?v=rBqBrYESryY)
 - [Webinar: Getting started with container runtime security using Falco by Loris Degioanni](https://www.youtube.com/watch?v=eqZxd7VJzek)
+- [Kubernetes Master Class - 2020-04-20 - Detecting Anomalous Kubernetes Activity with Falco by Rancher Labs](https://www.youtube.com/watch?v=M3f6-ioY9rs)
 
 ## Slides
 
