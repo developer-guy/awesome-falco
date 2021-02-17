@@ -71,6 +71,7 @@ A curated list of Falco related tools, frameworks and articles
 - [K3s Sysdig Falco by Dan Papandrea](https://sysdig.com/blog/k3s-sysdig-falco/)
 - [Falco Security and Monitoring on RKE Bare Metal Cluster with Rancher by Frank Jogeleit](https://blog.webdev-jogeleit.de/blog/falco-security-and-monitoring-on-rke-bare-metal-cluster-with-rancher)
 - [Falco at the edge arm64 by Alex Ellis](https://blog.alexellis.io/falco-at-the-edge-arm64/)
+- [Analyze AWS EKS Audit logs with Falco by Ismail Yenigul](https://medium.com/faun/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
 
 ## Videos
 
