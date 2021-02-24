@@ -27,6 +27,7 @@ A curated list of Falco related tools, frameworks and articles
 ### Repositories
 
 - [Falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+- [Falco Libs](https://github.com/falcosecurity/libs) - libsinsp, libscap, the kernel module driver, and the eBPF driver sources
 - [Falcosidekick](https://github.com/falcosecurity/falcosidekick) - A simple daemon to help you with falco's outputs
 - [Falcosidekick UI](https://github.com/falcosecurity/falcosidekick-ui) - A simple WebUI with latest events from Falco
 - [falcoctl](https://github.com/falcosecurity/falcoctl) - Administrative tooling for Falco.
