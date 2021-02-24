@@ -74,6 +74,8 @@ A curated list of Falco related tools, frameworks and articles
 - [Falco Security and Monitoring on RKE Bare Metal Cluster with Rancher by Frank Jogeleit](https://blog.webdev-jogeleit.de/blog/falco-security-and-monitoring-on-rke-bare-metal-cluster-with-rancher)
 - [Falco at the edge arm64 by Alex Ellis](https://blog.alexellis.io/falco-at-the-edge-arm64/)
 - [Analyze AWS EKS Audit logs with Falco by Ismail Yenigul](https://medium.com/faun/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
+- [Sysdig contributes Falco's kernel module, eBPF probe, and libraries to the CNCF by Loris Degioanni](https://sysdig.com/blog/sysdig-contributes-falco-kernel-ebpf-cncf/)
+- [Contribution of the drivers and the libraries By Leonardo Di Donato, Leonardo Grasso](https://falco.org/blog/contribution-drivers-kmod-ebpf-libraries/)
 
 ## Videos
 
