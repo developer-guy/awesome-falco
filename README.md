@@ -76,7 +76,8 @@ A curated list of Falco related tools, frameworks and articles
 - [Analyze AWS EKS Audit logs with Falco by Ismail Yenigul](https://medium.com/faun/analyze-aws-eks-audit-logs-with-falco-95202167f2e)
 - [Sysdig contributes Falco's kernel module, eBPF probe, and libraries to the CNCF by Loris Degioanni](https://sysdig.com/blog/sysdig-contributes-falco-kernel-ebpf-cncf/)
 - [Contribution of the drivers and the libraries By Leonardo Di Donato, Leonardo Grasso](https://falco.org/blog/contribution-drivers-kmod-ebpf-libraries/)
-
+- [Runtime security in Azure Kubernetes Service by Eric Carter](https://sysdig.com/blog/runtime-security-in-azure-kubernetes-service/)
+- 
 ## Videos
 
 - [Container Runtime Security with Falco by Kubernetes Meetup Tokyo](https://www.youtube.com/watch?v=t-7sq1_wYP4)
