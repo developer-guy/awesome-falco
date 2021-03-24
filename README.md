@@ -78,6 +78,7 @@ A curated list of Falco related tools, frameworks and articles
 - [Contribution of the drivers and the libraries By Leonardo Di Donato, Leonardo Grasso](https://falco.org/blog/contribution-drivers-kmod-ebpf-libraries/)
 - [Runtime security in Azure Kubernetes Service by Eric Carter](https://sysdig.com/blog/runtime-security-in-azure-kubernetes-service/)
 - [A story about touching Falco by RyuSA](https://translate.google.com/translate?hl=fr&sl=ja&u=https://zenn.dev/ryusa/scraps/f2807017e0b58c&prev=search&pto=aue)
+- [AWS S3 security with CloudTrail and Falco By Alba Ferri](https://sysdig.com/blog/aws-s3-security-cloudtrail-falco/)
 
 ## Videos
 
