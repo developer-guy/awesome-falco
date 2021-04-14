@@ -89,7 +89,6 @@ A curated list of Falco related tools, frameworks and articles
 - [Webinar: Getting started with container runtime security using Falco by Loris Degioanni](https://www.youtube.com/watch?v=eqZxd7VJzek)
 - [Kubernetes Master Class - 2020-04-20 - Detecting Anomalous Kubernetes Activity with Falco by Rancher Labs](https://www.youtube.com/watch?v=M3f6-ioY9rs)
 - [Unveil hidden malicious processes with Falco in cloud-native environments by Kaizhe Huang](https://securitysandman.com/2021/04/12/falco-ioc-detection-on-k8-wip/)
-- 
 
 ## Slides
 
