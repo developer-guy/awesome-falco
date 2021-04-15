@@ -32,6 +32,7 @@ A curated list of Falco related tools, frameworks and articles
 - [Falcosidekick UI](https://github.com/falcosecurity/falcosidekick-ui) - A simple WebUI with latest events from Falco
 - [falcoctl](https://github.com/falcosecurity/falcoctl) - Administrative tooling for Falco.
 - [Falcosecurity Evolution](https://github.com/falcosecurity/evolution) - Evolution process of The Falco Project
+- [Falco Event Generator](https://github.com/falcosecurity/event-generator) - Generate a variety of suspect actions that are detected by Falco rulesets
 
 ### Docs
 
