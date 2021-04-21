@@ -1,0 +1,13 @@
+name: Markdown Link Checker
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  MarkdownLinkCheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
