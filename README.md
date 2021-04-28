@@ -81,6 +81,7 @@ A curated list of Falco related tools, frameworks and articles
 - [A story about touching Falco by RyuSA](https://translate.google.com/translate?hl=fr&sl=ja&u=https://zenn.dev/ryusa/scraps/f2807017e0b58c&prev=search&pto=aue)
 - [AWS S3 security with CloudTrail and Falco By Alba Ferri](https://sysdig.com/blog/aws-s3-security-cloudtrail-falco/)
 - [Detecting MITRE ATT&CK: Privilege escalation with Falco By Stefano Chierici](https://sysdig.com/blog/mitre-privilege-escalation-falco)
+- [Exploiting and detecting CVE-2021-25735: Kubernetes validating admission webhook bypass By Stefano Chierici](https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/)
 
 ## Videos
 
