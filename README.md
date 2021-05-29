@@ -52,6 +52,7 @@ A curated list of Falco related tools, frameworks and articles
 
 ## Blogs and Articles
 
+- [Using Falco to monitor outbound traffic for Pods in Kubernetes](https://www.rkatz.xyz/post/2021-04-16-falco-network-monitoring/)
 - [Installing and using sysdig falco by Spencer Krum](https://developer.ibm.com/tutorials/installing-and-using-sysdig-falco/)
 - [Falco Container Native Security by cloudpirate](https://www.cloudpirate.io/blog/falco-container-native-runtime-security-40608.html)
 - [Kubernetes Security monitoring at scale with Sysdig Falco by Skyscanner Engineering](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)
