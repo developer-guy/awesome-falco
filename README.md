@@ -49,6 +49,7 @@ A curated list of Falco related tools, frameworks and articles
 - [Falco workshop by vicenteherrera](https://github.com/vicenteherrera/falco-workshop)
 - [Container Runtime Security with Falco by developer-guy](https://github.com/developer-guy/container-runtime-security-with-falco)
 - [falco-filebeat-daemonset by Popsiclestick](https://github.com/Popsiclestick/falco-filebeat-daemonset) - Easily deployable daemonset which moves logs from falco with filebeat
+- [Falco Diagrams: Visually learn Falco and its eBPF probe](https://github.com/leodido/falco-diagrams)
 
 ## Blogs and Articles
 
